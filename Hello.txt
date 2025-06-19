@@ -1,1 +1,1 @@
-Oi eu sou o hello 2.0 modificado!
+Esse é o arquivo de hello de exemplo!
