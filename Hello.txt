@@ -1,1 +1,1 @@
-Esse é o arquivo de hello de exemplo!
+Esse é o arquivo de hello de exemplo! ALTERADO
